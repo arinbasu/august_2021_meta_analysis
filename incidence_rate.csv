@@ -1,0 +1,9 @@
+author, year, n_events_trt, person_time_trt, n_events_ctrl, person_time_ctrl
+Abele, 2013, 6, 362, 16, 356
+Boss, 2017a, 7, 77.87, 3, 24.68
+Boss, 2017b, 3, 78.45, 3, 24.68
+Boss, 2017c, 12, 79.89, 3, 24.68
+Goldman, 2006, 3, 197, 4, 107.5
+Krishnamurti, 2010, 3, 197, 4, 107.5
+Pastorius, 2016, 8, 223.6, 13, 220.7
+Zimmerman, 2009, 22, 160, 29, 159
